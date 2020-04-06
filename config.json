@@ -1,0 +1,11 @@
+{
+    "token":"inserttokenhere",
+    "prefix":"!",
+    "BotStatus":"Credits to Kimchi",
+    "SuccessChannelName":"success",
+    "TweetMessage":"Success from Twitter Success Bot",
+    "consumer_key":"insert",
+    "consumer_secret":"insert",
+    "access_token":"insert",
+    "access_token_secret":"insert"
+}
